@@ -30,8 +30,6 @@ From developing intelligent chatbots to building autonomous drones, I love turni
 
 ---
 
-⭐ *"Building solutions that learn, adapt, and make life easier — one project at a time."*
-
 
 <!---
 udaysinghkanwar/udaysinghkanwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
